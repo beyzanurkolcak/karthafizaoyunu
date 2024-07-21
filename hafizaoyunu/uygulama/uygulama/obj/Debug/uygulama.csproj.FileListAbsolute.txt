@@ -1,0 +1,10 @@
+C:\Users\Beyza\Desktop\staj-algoritma\hafizaoyunu\uygulama\uygulama\obj\Debug\uygulama.csproj.AssemblyReference.cache
+C:\Users\Beyza\Desktop\staj-algoritma\hafizaoyunu\uygulama\uygulama\obj\Debug\uygulama.Properties.Resources.resources
+C:\Users\Beyza\Desktop\staj-algoritma\hafizaoyunu\uygulama\uygulama\obj\Debug\uygulama.csproj.GenerateResource.cache
+C:\Users\Beyza\Desktop\staj-algoritma\hafizaoyunu\uygulama\uygulama\obj\Debug\uygulama.csproj.CoreCompileInputs.cache
+C:\Users\Beyza\Desktop\staj-algoritma\hafizaoyunu\uygulama\uygulama\obj\Debug\uygulama.EşleşenOyun.resources
+C:\Users\Beyza\Desktop\staj-algoritma\hafizaoyunu\uygulama\uygulama\bin\Debug\uygulama.exe.config
+C:\Users\Beyza\Desktop\staj-algoritma\hafizaoyunu\uygulama\uygulama\bin\Debug\uygulama.exe
+C:\Users\Beyza\Desktop\staj-algoritma\hafizaoyunu\uygulama\uygulama\bin\Debug\uygulama.pdb
+C:\Users\Beyza\Desktop\staj-algoritma\hafizaoyunu\uygulama\uygulama\obj\Debug\uygulama.exe
+C:\Users\Beyza\Desktop\staj-algoritma\hafizaoyunu\uygulama\uygulama\obj\Debug\uygulama.pdb
